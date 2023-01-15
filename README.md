@@ -15,9 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel One to Many Relationship: A Beginner’s Guide](https://www.iankumu.com/blog/laravel-one-to-many-relationship/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-one-to-many-relationship)
 - [How to Document a Laravel REST API](https://www.iankumu.com/blog/laravel-rest-api-documentation/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-rest-api-documentation)
 - [How to Build a Rest API with Laravel: A Beginners Guide](https://www.iankumu.com/blog/laravel-rest-api/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-rest-api)
-- [How To Install Cloud SQL Auth Proxy on Ubuntu](https://www.iankumu.com/blog/how-to-install-cloud-sql-proxy-on-ubuntu/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-cloud-sql-proxy-on-ubuntu)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
