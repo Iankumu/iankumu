@@ -15,9 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Build GraphQL APIs Using Laravel](https://www.iankumu.com/blog/laravel-graphql-api/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-graphql-api)
 - [How to Add Google reCAPTCHA to Laravel Forms](https://www.iankumu.com/blog/laravel-google-recaptcha/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-google-recaptcha)
 - [How to Integrate Mpesa Into your Laravel Application](https://www.iankumu.com/blog/laravel-mpesa/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-mpesa)
-- [Laravel One to Many Relationship: A Beginner’s Guide](https://www.iankumu.com/blog/laravel-one-to-many-relationship/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-one-to-many-relationship)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
