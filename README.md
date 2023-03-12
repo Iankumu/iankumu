@@ -15,9 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup Nginx as a Reverse Proxy for Laravel](https://www.iankumu.com/blog/laravel-nginx-reverse-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-nginx-reverse-proxy)
 - [How to Create Custom Helper Functions in Laravel](https://www.iankumu.com/blog/laravel-custom-helper-functions/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-custom-helper-functions)
 - [How To Build GraphQL APIs Using Laravel](https://www.iankumu.com/blog/laravel-graphql-api/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-graphql-api)
-- [How to Add Google reCAPTCHA to Laravel Forms](https://www.iankumu.com/blog/laravel-google-recaptcha/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-google-recaptcha)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
