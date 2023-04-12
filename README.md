@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iankumu&show_icons=true&locale=en&layout=compact" alt="iankumu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iankumu&show_icons=true&locale=en" alt="iankumu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iankumu&show_icons=true&locale=en&count_private=true" alt="iankumu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankumu&" alt="iankumu" /></p>
