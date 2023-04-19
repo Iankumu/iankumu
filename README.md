@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Kumu</h1>
-<h3 align="center">I am passionate about Software Development and Backend Development</h3>
+<h3 align="center">I am passionate about Software Development and Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iankumu&label=Profile%20views&color=0e75b6&style=flat" alt="iankumu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankumu&label=Profile%20views&color=0e75b6&style=flat" alt="iankumu" /> </p> -->
 
 - 🌱 I’m currently learning **AWS, React**
 
@@ -12,6 +12,14 @@
 - 💬 Ask me about **Laravel, Vue, PHP, Python**
 
 - 📫 How to reach me **ian@iankumu.com**
+
+### My OpenSource Projects
+- [Laravel Mpesa](https://github.com/Iankumu/mpesa)
+
+### My Recent Projects
+- [Brevue](https://brevue.com/?utm_source=github)
+- [Laravel Payments](https://github.com/Iankumu/Payments)
+- [And many more](https://github.com/Iankumu?tab=repositories)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -34,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iankumu&show_icons=true&locale=en&count_private=true" alt="iankumu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankumu&" alt="iankumu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankumu" alt="iankumu" /></p>
