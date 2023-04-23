@@ -23,9 +23,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Effortlessly Retrieve Data with Date Scopes in Laravel](https://www.iankumu.com/blog/laravel-date-scopes/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-date-scopes)
 - [How to Automate SSL Generation and Renewals Using Laravel](https://www.iankumu.com/blog/automate-ssl-generation-and-renewals-using-laravel/?utm_source=rss&utm_medium=rss&utm_campaign=automate-ssl-generation-and-renewals-using-laravel)
 - [How to Setup Nginx as a Reverse Proxy for Laravel](https://www.iankumu.com/blog/laravel-nginx-reverse-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-nginx-reverse-proxy)
-- [How to Create Custom Helper Functions in Laravel](https://www.iankumu.com/blog/laravel-custom-helper-functions/?utm_source=rss&utm_medium=rss&utm_campaign=laravel-custom-helper-functions)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
