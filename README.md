@@ -17,6 +17,7 @@
 - [Laravel Mpesa](https://github.com/Iankumu/mpesa)
 
 ### My Recent Projects
+- [Link Squeeze](https://www.linksqueeze.io)
 - [Brevue](https://brevue.com/?utm_source=github)
 - [Laravel Payments](https://github.com/Iankumu/Payments)
 - [And many more](https://github.com/Iankumu?tab=repositories)
