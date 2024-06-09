@@ -24,9 +24,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel One to One Relationship: A Beginner’s Guide](https://www.iankumu.com/blog/laravel-one-to-one-relationship/)
 - [Contabo Review: Is It Really Good?](https://www.iankumu.com/blog/contabo-review/)
 - [Firebase Push Notifications in Laravel: A Comprehensive Guide](https://www.iankumu.com/blog/laravel-firebase-push-notification/)
-- [Efficient User Timezone Handling in Laravel](https://www.iankumu.com/blog/laravel-timezones/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
