@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Kumu</h1>
-<h3 align="center">I am passionate about Software Development and Web Development</h3>
+<h3 align="center">I am passionate about Software Development and Data Science</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankumu&label=Profile%20views&color=0e75b6&style=flat" alt="iankumu" /> </p> -->
-
-- 🌱 I’m currently learning **AWS, React**
 
 - 👨‍💻 All of my projects are available at [https://www.iankumu.com](https://www.iankumu.com)
 
@@ -18,7 +16,6 @@
 
 ### My Recent Projects
 - [Link Squeeze](https://www.linksqueeze.io)
-- [Brevue](https://brevue.com/?utm_source=github)
 - [Laravel Payments](https://github.com/Iankumu/Payments)
 - [And many more](https://github.com/Iankumu?tab=repositories)
 
