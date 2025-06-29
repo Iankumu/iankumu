@@ -21,9 +21,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Laravel One to One Relationship: A Beginner’s Guide](https://www.iankumu.com/blog/laravel-one-to-one-relationship/)
-- [Contabo Review: Is It Really Good?](https://www.iankumu.com/blog/contabo-review/)
-- [Firebase Push Notifications in Laravel: A Comprehensive Guide](https://www.iankumu.com/blog/laravel-firebase-push-notification/)
+- [Laravel One to One Relationship: A Beginner’s Guide](https://www.iankumu.com/laravel-one-to-one-relationship/)
+- [Contabo Review: Is It Really Good?](https://www.iankumu.com/contabo-review/)
+- [Firebase Push Notifications in Laravel: A Comprehensive Guide](https://www.iankumu.com/laravel-firebase-push-notification/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
