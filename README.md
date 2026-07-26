@@ -20,9 +20,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup Nginx as a Reverse Proxy for Laravel](https://www.iankumu.com/blog/laravel-nginx-reverse-proxy/)
+- [Laravel One to One Relationship: A Beginner’s Guide](https://www.iankumu.com/laravel-one-to-one-relationship/)
 - [Firebase Push Notifications in Laravel: A Comprehensive Guide](https://www.iankumu.com/laravel-firebase-push-notification/)
-- [How to Automate SSL Generation and Renewals Using Laravel](https://www.iankumu.com/blog/automate-ssl-generation-and-renewals-using-laravel/)
+- [Efficient User Timezone Handling in Laravel](https://www.iankumu.com/laravel-timezones/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
